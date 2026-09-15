@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "706c0d37-6cf0-46ca-ac1b-9e27f4fbdfd2",
+			"database_name": "phishing-awareness"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
